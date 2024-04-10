@@ -1,0 +1,9 @@
+* cl-python-venv
+
+Manage python virtual environments from Common Lisp
+
+|---------+---------------------------------------------------|
+| source  | git:https://github.com/atgreen/cl-python-venv.git |
+| commit  | f8d445b                                           |
+| systems | python-venv                                       |
+|---------+---------------------------------------------------|
